@@ -23,7 +23,7 @@ A framework is created using **Flask**
 **Algerian Forest Fires**
 
 
-**Data set Available at:** [link text](https://archive.ics.uci.edu/ml/datasets/Algerian+Forest+Fires+Dataset++#)
+**Data set Available at:** [link text](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset)
 
 ***Data Set Information:***
 
@@ -95,6 +95,7 @@ A framework is created using **Flask**
 ## Model Selection
 
 - For Regression **r2_score** metrics is used to select the best model.
+- A linear regression model was built on top of it which had 0.98 R2_score.
 
 
 ## Model Deployment
